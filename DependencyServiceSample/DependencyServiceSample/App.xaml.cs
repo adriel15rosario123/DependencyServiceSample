@@ -18,7 +18,7 @@ namespace DependencyServiceSample
 
         protected override void OnInitialized()
         {
-            InitializeComponent();
+            
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
